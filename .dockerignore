@@ -1,6 +1,5 @@
 node_modules
 npm-debug.log
-files
-doc
+files/*
 config/*
 !config/default.yml
