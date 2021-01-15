@@ -1,0 +1,5 @@
+server:
+  port: 3002
+
+jwt:
+  expiresIn: 43200

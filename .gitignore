@@ -1,0 +1,8 @@
+node_modules
+dist
+coverage
+/files
+
+config/test.yml
+config/development.yml
+config/production.yml
